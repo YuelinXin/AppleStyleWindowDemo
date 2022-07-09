@@ -1,5 +1,5 @@
 # macOS-StyleWindowDemo
-This is a macOS styled window built using HTML and CSS. Available at https://staticfile.osl.ink/staticFiles/macOS_window.html
+This is a macOS styled window built using HTML and CSS. Available at https://staticfile.osl.ink/staticFiles/macOS-window.html
 
 ### What It Looks Like
 
