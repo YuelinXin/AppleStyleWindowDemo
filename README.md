@@ -4,8 +4,8 @@ This is a macOS styled window built using HTML and CSS. Available at https://sta
 ### What It Looks Like
 
 #### Light Mode
-> <img width="668" alt="截屏2022-06-21 17 15 46" src="https://user-images.githubusercontent.com/89094576/174764406-c0d6cb6b-70cc-430d-a03e-c8853a8d3cd1.png">
+> ![macOS-StyleWindowDemo_macOS-window_light](https://user-images.githubusercontent.com/89094576/185748756-02bd2ec2-e790-4e20-933f-6e91d379f854.png)
 
 #### Dark Mode
-> <img width="662" alt="截屏2022-06-21 17 16 33" src="https://user-images.githubusercontent.com/89094576/174764520-1fa9f9fe-f119-4140-94e5-00889ce55c68.png">
+> ![macOS-StyleWindowDemo_macOS-window_dark](https://user-images.githubusercontent.com/89094576/185748757-2e1bc343-f096-417b-8f1c-1fcfa2c5dd03.png)
 
