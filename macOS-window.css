@@ -42,6 +42,29 @@
     width: 11.8px;
 }
 
+.button:nth-of-type(1)
+{
+    /* Do not change, this part has already matched the apple window style */
+    background-color: rgb(236,106,94);
+    border: 0.75px solid rgb(222, 95, 84);
+}
+
+.button:nth-of-type(2)
+{
+    /* Do not change, this part has already matched the apple window style */
+    margin-left: 3px;
+    background-color: rgb(244,191,79);
+    border: 0.75px solid rgb(231, 178, 75);
+}
+
+.button:nth-of-type(3)
+{
+    /* Do not change, this part has already matched the apple window style */
+    margin-left: 3px;
+    background-color: rgb(97,197,84);
+    border: 0.75px solid rgb(94, 185, 77);
+}
+
 .macOS-window-title
 {
     /* Do not change, this part has already matched the apple window style */
