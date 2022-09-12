@@ -11,7 +11,7 @@
 
     /* This part is up to you! */
     height: 400px;
-    width: 600px;
+    width: 560px;
 }
 
 .macOS-window-titlebar
@@ -111,6 +111,7 @@
     {
         /* This part is up to you! */
         background-color: rgb(33, 33, 33);
+        background-image: url('https://staticfile.osl.ink/staticFiles/Monterey_dark.jpeg') !important;
     }
 
     .macOS-window
